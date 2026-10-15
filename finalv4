@@ -1,0 +1,17 @@
+local partTable = {
+	{CFrame = CFrame.new(661.899963, 0.599754333, -152.000076, 0, -1, 0, 0, 0, 1, -1, 0, 0), Name = 'Wall2Tall', TreeValue = 'CaveCrawler'},
+	{CFrame = CFrame.new(654.099915, 2.59975433, -160.000076, 0, 1, 0, 0, 0, -1, -1, 0, 0), Name = 'Wall2Tall', TreeValue = 'CaveCrawler'},
+	-- ========== BERHASIL DIPERBAIKI (12 part, TreeValue sudah dikoreksi otomatis) ==========
+	{CFrame = CFrame.new(663.499939, 64.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(664.499939, 67.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(663.499939, 70.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(661.499939, 72.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(658.499939, 73.5997543, -172.90007, 1, 0, 0, 0, 0, -1, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(655.499939, 72.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(653.499939, 70.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(652.499939, 67.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(653.499939, 64.5997543, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(655.499939, 62.5997581, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(658.499939, 61.5997581, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+	{CFrame = CFrame.new(661.499939, 62.5997581, -172.90007, 0, 0, 1, 1, 0, 0, 0, 1, 0), Name = 'Floor1Tiny', TreeValue = 'SpookyNeon'}, -- FIXED: tercatat 'CaveCrawler' -> dikoreksi jadi 'SpookyNeon' | lokasi: Workspace.Base.Kekurangan.Floor1Tiny
+}
